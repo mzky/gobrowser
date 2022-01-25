@@ -1,5 +1,5 @@
 # gobrowser
-Based on the ectron Cross-platform Mini browser.
+Based on the `electron` Cross-platform Mini browser.
 
 
 
