@@ -2,7 +2,7 @@
 Based on the `electron` Cross-platform Mini browser.
 
 
-## 编译单文件
+## build
 ```
 go get -u github.com/asticode/go-astilectron-bundler/...
 go install github.com/asticode/go-astilectron-bundler/astilectron-bundler
